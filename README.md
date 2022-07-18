@@ -15,4 +15,4 @@ Footer <br>
 <img height="300px" src="https://i.imgur.com/ddMnSnz.png"> <br>
 <br>
 Versão mobile <br>
-<img height="500px" src="https://i.imgur.com/LtuMgWq.png">
+<img height="500px" src="https://i.imgur.com/3oFb9ZN.png">
